@@ -103,7 +103,7 @@ textarea {
   width: 20px;
   height: 20px;
   display: block;
-  background: url("/assets/icons/hamburger.svg");
+  background: url("https://vieirahenrique.github.io/scoot3/assets/icons/hamburger.svg");
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -153,7 +153,7 @@ textarea {
 }
 
 .header__menu input:checked ~ label {
-  background: url("/assets/icons/close.svg");
+  background: url("https://vieirahenrique.github.io/scoot3/assets/icons/close.svg");
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -197,7 +197,7 @@ textarea {
 .hero {
   height: 650px;
   color: #fff;
-  background: url("/assets/images/home-hero-mobile.jpg");
+  background: url("https://vieirahenrique.github.io/scoot3/assets/images/home-hero-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -236,7 +236,7 @@ textarea {
   left: 0;
   width: 200px;
   height: 150px;
-  background: url("/assets/patterns/right-arrow.svg");
+  background: url("https://vieirahenrique.github.io/scoot3/assets/patterns/right-arrow.svg");
   background-size: cover;
   background-position: right center;
   -webkit-transform: translateX(-60px);
@@ -245,7 +245,7 @@ textarea {
 
 @media screen and (min-width: 767px) {
   .hero {
-    background: url("/assets/images/home-hero-tablet.jpg");
+    background: url("https://vieirahenrique.github.io/scoot3/assets/images/home-hero-tablet.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     top: 95px;
@@ -273,7 +273,7 @@ textarea {
     right: -20px;
     width: 180px;
     height: 50px;
-    background: url("/assets/patterns/white-circles.svg");
+    background: url("https://vieirahenrique.github.io/scoot3/assets/patterns/white-circles.svg");
     background-size: cover;
     background-position: left center;
   }
@@ -281,7 +281,7 @@ textarea {
 
 @media screen and (min-width: 1150px) {
   .hero {
-    background: url("/assets/images/home-hero-desktop.jpg");
+    background: url("https://vieirahenrique.github.io/scoot3/assets/images/home-hero-desktop.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -311,7 +311,7 @@ textarea {
     display: block;
     width: 200px;
     height: 15px;
-    background: url("/assets/patterns/line.svg");
+    background: url("https://vieirahenrique.github.io/scoot3/assets/patterns/line.svg");
     background-size: cover;
     background-position: center center;
   }
@@ -325,7 +325,7 @@ textarea {
     display: block;
     width: 450px;
     height: 150px;
-    background: url("/assets/patterns/right-arrow.svg");
+    background: url("https://vieirahenrique.github.io/scoot3/assets/patterns/right-arrow.svg");
     background-size: 450px;
     background-position: center center;
   }
@@ -519,7 +519,7 @@ textarea {
   display: block;
   width: 100%;
   height: 100%;
-  background: url("/assets/patterns/left-downward-arrow.svg");
+  background: url("https://vieirahenrique.github.io/scoot3/assets/patterns/left-downward-arrow.svg");
   background-repeat: no-repeat;
   top: 170px;
   right: -25px;
@@ -536,7 +536,7 @@ textarea {
   display: block;
   width: 100%;
   height: 100%;
-  background: url("/assets/patterns/right-arrow.svg");
+  background: url("https://vieirahenrique.github.io/scoot3/assets/patterns/right-arrow.svg");
   background-repeat: no-repeat;
   background-position: right;
   top: -280px;
@@ -554,7 +554,7 @@ textarea {
   display: block;
   width: 100%;
   height: 100%;
-  background: url("/assets/patterns/left-downward-arrow.svg");
+  background: url("https://vieirahenrique.github.io/scoot3/assets/patterns/left-downward-arrow.svg");
   background-repeat: no-repeat;
   top: 15px;
   right: -100px;
@@ -670,7 +670,7 @@ textarea {
 .signup {
   height: 320px;
   background: #485566;
-  background-image: url("/assets/patterns/semi-circles.svg");
+  background-image: url("https://vieirahenrique.github.io/scoot3/assets/patterns/semi-circles.svg");
   background-repeat: no-repeat;
   background-size: 350%;
   background-position: bottom right -250px;
