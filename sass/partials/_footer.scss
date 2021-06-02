@@ -1,0 +1,48 @@
+.footer {
+  background: #333a44;
+  padding: 66px 0 90px;
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+  }
+
+  &__logo {
+    img {
+      fill: #fff;
+    }
+  }
+
+  &__menu {
+    ul {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+
+      a {
+        color: $gray;
+      }
+    }
+  }
+
+  &__social {
+    display: flex;
+    gap: 15px;
+  }
+
+  @media screen and (min-width: 767px) {
+    .container {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+
+    &__menu {
+      ul {
+        flex-direction: row;
+      }
+    }
+  }
+}

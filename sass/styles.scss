@@ -1,0 +1,16 @@
+$white: #fff;
+$yellow: #fcb72b;
+$yellow-light: #fff4df;
+$blue-dark: #495567;
+$gray: #939caa;
+$gray-light: #e5ecf4;
+$snow: #f2f5f9;
+$blue-middle: #485566;
+
+@import "partials/reset";
+@import "partials/header";
+@import "partials/hero";
+@import "partials/steps";
+@import "partials/features";
+@import "partials/signup";
+@import "partials/footer";
