@@ -1,7 +1,7 @@
 .hero {
   height: 650px;
   color: $white;
-  background: url("/assets/images/home-hero-mobile.jpg");
+  background: url("https://vieirahenrique.github.io/scoot3/assets/images/home-hero-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -36,14 +36,14 @@
     left: 0;
     width: 200px;
     height: 150px;
-    background: url("/assets/patterns/right-arrow.svg");
+    background: url("https://vieirahenrique.github.io/scoot3/assets/patterns/right-arrow.svg");
     background-size: cover;
     background-position: right center;
     transform: translateX(-60px);
   }
 
   @media screen and (min-width: 767px) {
-    background: url("/assets/images/home-hero-tablet.jpg");
+    background: url("https://vieirahenrique.github.io/scoot3/assets/images/home-hero-tablet.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     top: 95px;
@@ -76,14 +76,14 @@
       right: -20px;
       width: 180px;
       height: 50px;
-      background: url("/assets/patterns/white-circles.svg");
+      background: url("https://vieirahenrique.github.io/scoot3/assets/patterns/white-circles.svg");
       background-size: cover;
       background-position: left center;
     }
   }
 
   @media screen and (min-width: 1150px) {
-    background: url("/assets/images/home-hero-desktop.jpg");
+    background: url("https://vieirahenrique.github.io/scoot3/assets/images/home-hero-desktop.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -111,7 +111,7 @@
           display: block;
           width: 200px;
           height: 15px;
-          background: url("/assets/patterns/line.svg");
+          background: url("https://vieirahenrique.github.io/scoot3/assets/patterns/line.svg");
           background-size: cover;
           background-position: center center;
         }
@@ -125,7 +125,7 @@
           display: block;
           width: 450px;
           height: 150px;
-          background: url("/assets/patterns/right-arrow.svg");
+          background: url("https://vieirahenrique.github.io/scoot3/assets/patterns/right-arrow.svg");
           background-size: 450px;
           background-position: center center;
         }

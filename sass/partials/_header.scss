@@ -27,7 +27,7 @@
       width: 20px;
       height: 20px;
       display: block;
-      background: url("/assets/icons/hamburger.svg");
+      background: url("https://vieirahenrique.github.io/scoot3/assets/icons/hamburger.svg");
       background-repeat: no-repeat;
       background-position: center center;
     }
@@ -68,7 +68,7 @@
     }
 
     input:checked ~ label {
-      background: url("/assets/icons/close.svg");
+      background: url("https://vieirahenrique.github.io/scoot3/assets/icons/close.svg");
       background-repeat: no-repeat;
       background-position: center center;
     }
